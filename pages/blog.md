@@ -6,4 +6,5 @@ layout: ffff
 
 _yay_
 
-[back](./)
+[back](.)
+[back](../)
